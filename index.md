@@ -1,5 +1,4 @@
 ---
-layout: Post
 title: Mathew Paret
 ---
 
